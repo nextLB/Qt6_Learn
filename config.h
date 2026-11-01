@@ -13,7 +13,7 @@ namespace Config {
 
 // ---------- 应用元信息 ----------
 inline const QString AppName        = "Qt6Learn";
-inline const QString AppDisplayName = "Qt6 学习工具箱";
+inline const QString AppDisplayName = "Qt6 学习";
 inline const QString AppVersion     = "1.0.0";
 inline const QString OrgName        = "next";
 
